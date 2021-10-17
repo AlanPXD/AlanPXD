@@ -23,7 +23,7 @@
 
 Projeto de iniciação cientifica que consiste no uso de redes neurais para a remoção de ruído em imagens.
 
-#### Linguagens e bibliotecas mais relevantes usadas:
+#### Linguagens e bibliotecas mais relevantes usadas: 
 
 - Python
   - TensorFlow
